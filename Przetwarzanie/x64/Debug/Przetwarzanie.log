@@ -1,0 +1,16 @@
+﻿  Source.c
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(266,38): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(267,35): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(267,28): warning C4552: '!=': result of expression not used
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(268,44): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(269,40): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(270,39): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(271,35): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(272,38): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(273,34): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(367,12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(396,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(263): warning C4715: 'loadImage': not all control paths return a value
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(300): warning C4715: 'removeComments': not all control paths return a value
+C:\Users\Jakub\source\repos\Przetwarzanie\Przetwarzanie\Source.c(453): warning C4716: 'createHistogram': must return a value
+  Przetwarzanie.vcxproj -> C:\Users\Jakub\source\repos\Przetwarzanie\x64\Debug\Przetwarzanie.exe
